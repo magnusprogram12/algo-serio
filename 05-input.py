@@ -1,0 +1,6 @@
+resultado = input ("Ingresa tu edad:") 
+print(resultado)
+name = input ("ingresa tu nombre:")
+print(name)
+comida = input ("ingresa conida favorita:")
+print(type(comida))
